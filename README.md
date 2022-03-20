@@ -4,8 +4,7 @@
 
 - 👀 Checkout my Portfolio Page! [Portfolio]
 - 🌱 I’m currently learning the MERN Stack
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Take a dive into backend technologies
+- 🥅 2022 Goals: Take my frontend skills to the next level!
 - ⚡ Fun fact: I love working out and learning
 
 ### Languages & Tools:
