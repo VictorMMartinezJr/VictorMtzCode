@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Frontend Web Developer from Atlanta, Ga</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victormtzcode" alt="victormtzcode" /></a> </p>
-
-- 🌱 I’m currently learning **Mongo DB**
-
 - 👨‍💻 Visit my portfolio website! [https://victormtzcodes.com](https://victormtzcodes.com)
 
 - 📫 How to reach me **victormtzcodes@gmail.com**
