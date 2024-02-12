@@ -3,7 +3,7 @@
 
 - 👨‍💻 Visit my portfolio website! [https://victormtzcodes.com](https://victormtzcodes.com)
 
-- 📫 How to reach me **victormtzcodes@gmail.com**
+- 📫 How to reach me **victorm.martinezjr@outlook.com**
 
 - ⚡ Fun fact **I love working out and learning**
 
